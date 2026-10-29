@@ -20,7 +20,7 @@ I'm currently pursuing my studies while working on exciting **python** and **Web
 
 ### 🎯 What I'm Doing:
 - 📚 **Currently learning:** Python  
-- 💻 **Building:** Projects using HTML, CSS, python, and MySQL  
+- 💻 **Building:** Projects using HTML, CSS, Js, Python, NodeJs, Fastapi and MySQL  
 - 🧠 **Languages I Know:** C, C++, HTML, CSS, python, MySQL  
 - ⚡ **Fun fact:** I debug better after a good cup of coffee ☕
 

@@ -28,7 +28,7 @@ I'm currently pursuing my studies while working on exciting **python** and **Web
 
 ## 🌐 Find Me Online:
 
-- 🌍 **Website:** [lalitsuthar45.me](https://lalitsuthar45.github.io)  
+- 🌍 **Website:** [lalit-suthar.netlify.app](https://lalit-suthar.netlify.app)  
 - 📧 **Email:** [lalitsuthar45@gmail.com](mailto:lalitsuthar45@gmail.com)  
 
 <h3 align="left">🎯 Let's Connect!</h3>

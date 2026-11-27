@@ -5,7 +5,7 @@
 
 <!-- 👋 Typing Animation -->
 <p align="center">
-  <img width="900" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+Java+and+Building+Projects;Exploring+Web+Development;Coding+with+Passion+💻" alt="Typing SVG">
+  <img width="900" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+python+and+Building+Projects;Exploring+Web+Development;Coding+with+Passion+💻" alt="Typing SVG">
 </p>
 
 <h1 align="center">Hi 👋, I'm Lalit Suthar</h1>
